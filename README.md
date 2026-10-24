@@ -1,4 +1,4 @@
-# MAT401 Real Analysis: Download-Time Sequences
+# Real Analysis: Download-Time Sequences
 
 ## Overview
 
