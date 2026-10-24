@@ -1,0 +1,8 @@
+S1, 1000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0
+S1, 5000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0
+S1, 10000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0
+S1, 20000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0
+S2, 1000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0
+S2, 5000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0
+S2, 10000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0
+S2, 20000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=0

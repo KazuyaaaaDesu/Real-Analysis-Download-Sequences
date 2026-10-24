@@ -1,0 +1,4 @@
+FINALTEST, 1000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=2
+FINALTEST, 5000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=1
+FINALTEST, 10000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=1
+FINALTEST, 20000000 bytes: VALID ANALYZABLE; valid_observations=40; failed_http_attempts=1

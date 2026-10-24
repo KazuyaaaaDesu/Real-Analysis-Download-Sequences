@@ -1,0 +1,6 @@
+{
+  "1000000": "https://jyuhywbacfijjogxedbv.supabase.co/storage/v1/object/public/mat401-download-test/test_1mb.bin",
+  "5000000": "https://jyuhywbacfijjogxedbv.supabase.co/storage/v1/object/public/mat401-download-test/test_5mb.bin",
+  "10000000": "https://jyuhywbacfijjogxedbv.supabase.co/storage/v1/object/public/mat401-download-test/test_10mb.bin",
+  "20000000": "https://jyuhywbacfijjogxedbv.supabase.co/storage/v1/object/public/mat401-download-test/test_20mb.bin"
+}
