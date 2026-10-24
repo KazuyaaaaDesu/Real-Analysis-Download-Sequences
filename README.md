@@ -34,41 +34,41 @@ The reference block provides a finite-sample benchmark for the empirical stabili
 
 ## Mathematical Framework
 
-Let \(T_n\) denote the measured download time, in seconds, for observation \(n\).
+Let (T_n) denote the measured download time, in seconds, for observation (n).
 
 The running mean is
 
-\[
-M*n=\frac{1}{n}\sum*{k=1}^{n}T_k.
-\]
+[
+M_n=\frac{1}{n}\sum_{k=1}^{n}T_k.
+]
 
-Let \(L\_{\mathrm{ref}}\) denote the mean download time of the reference block. The absolute deviation from this reference is
+Let (L\_{\mathrm{ref}}) denote the mean download time of the reference block. The absolute deviation from this reference is
 
-\[
-E*n=|T_n-L*{\mathrm{ref}}|,
-\]
+[
+E_n=\left|T_n-L_{\mathrm{ref}}\right|,
+]
 
 and the relative error is
 
-\[
-e*n=\frac{|T_n-L*{\mathrm{ref}}|}{L\_{\mathrm{ref}}}.
-\]
+[
+e_n=\frac{\left|T_n-L_{\mathrm{ref}}\right|}{L_{\mathrm{ref}}}.
+]
 
-For a selected tolerance \(\varepsilon\), the empirical stability index is the first \(K\) such that
+For a selected tolerance (\varepsilon), the empirical stability index is the first (K) such that
 
-\[
-E*n\leq \varepsilon L*{\mathrm{ref}}
-\]
+[
+E_n\leq\varepsilon L_{\mathrm{ref}}
+]
 
-for every observed index \(n=K,\ldots,30\). If no such index exists, no stability index is reported for that tolerance.
+for every observed index (n=K,\ldots,30). If no such index exists, no stability index is reported for that tolerance.
 
 Download throughput is calculated as
 
-\[
+[
 R_n=\frac{8S}{10^6T_n}\ \text{Mbps},
-\]
+]
 
-where \(S\) is the file size in bytes and \(T_n\) is the measured download time in seconds.
+where (S) is the file size in bytes and (T_n) is the measured download time in seconds.
 
 ## Selected Figures
 
